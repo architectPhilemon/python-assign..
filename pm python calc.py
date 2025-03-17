@@ -2,7 +2,7 @@ print("Hello, World")
 #Welcome to a fun calculator!
 #ask the user to input the first number
 #we're using 'float()'to make sure numbers can have dec
-# input("5:"))
+# ("5:")
 #ask the user to input the second number
 num2 = ("10")
 #let's compute the sum, difference, product, and quotient
